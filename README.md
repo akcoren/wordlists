@@ -1,1 +1,2 @@
-# wordlists
+# README
+Collection of common wordlists 
